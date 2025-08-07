@@ -95,7 +95,7 @@ plt.show()
 
 ### Results
 
-![Likelihood of Skills Requested in the Europe Job Postings](images/Likelihood_of_Skills_Requested_in_Europe_Job_Postings.png)
+![Likelihood of Skills Requested in the Europe Job Postings](images/Likelihood_of_Skills_Requested_in_Europe_Job_Postings.png.png)
 
 *Bar graph visualizing the salary for the top 3 data roles and their top 5 skills associated with each.*
 
